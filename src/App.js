@@ -1,17 +1,19 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
-import Navpills from './components/Navpills';
+import Navbar from './components/Navbar';
 import About from './pages/About';
-import Discover from './pages/Discover';
-import Search from './pages/Search';
+import Portfolio from './pages/Portfolio';
+import Contact from './pages/Contact';
+import "./css/style.css"
+ 
 
 const App = () => (
   <Router>
-    <div className="container">
-      <Navpills />
+    <div className="container"> 
+      <Navbar/>     
       <Route exact path="/" component={About} />
-      <Route exact path="/discover" component={Discover} />
-      <Route exact path="/search" component={Search} />
+      <Route exact path="/portfolio" component={Portfolio} />
+      <Route exact path="/contact" component={Contact} />
     </div>
   </Router>
 )

@@ -1,39 +1,45 @@
 // import React
 import React from 'react';
+import Connect from "../components/Connect";
+import Port from "../images/PF_2.png";
 
 // create stateless (functional) component called About
 const About = () => (
   <div>
-    <div className="jumbotron">
-      <h1>About this pupster app.</h1>
-    </div>
-    <div className="row">
-      <div className="col">
-        <p>
-          Jianbing iceland quinoa shabby chic butcher, vice whatever brooklyn heirloom forage copper mug helvetica
-          franzen. Narwhal listicle master cleanse sartorial. Flexitarian yr tumblr squid hexagon, poutine brooklyn
-          iceland kombucha lyft. Jean shorts taiyaki actually synth stumptown, lo-fi pop-up echo park keytar listicle
-          cloud bread. Wolf VHS four loko, ramps intelligentsia tumeric tofu humblebrag disrupt salvia pickled.
-        </p>
 
-        <p>
-          XOXO green juice venmo pour-over poutine shoreditch yuccie selvage mlkshk man bun tacos food truck celiac. Put
-          a bird on it aesthetic chia, mumblecore bicycle rights chartreuse retro man bun vaporware vegan hammock
-          crucifix PBR&B. Church-key lo-fi knausgaard banh mi wolf helvetica. Gentrify street art heirloom bushwick
-          selfies selvage portland. Literally listicle af thundercats tote bag typewriter jean shorts hashtag fanny pack
-          kinfolk. Try-hard shaman sartorial man braid truffaut cloud bread freegan YOLO PBR&B farm-to-table meggings.
-          Slow-carb direct trade seitan edison bulb viral snackwave kombucha waistcoat four loko.
-        </p>
 
-        <p>
-          Iceland fanny pack single-origin coffee, banjo next level activated charcoal stumptown hashtag mustache. Fam
-          church-key polaroid letterpress, marfa taxidermy poke. Venmo stumptown cornhole keytar taiyaki marfa. Craft
-          beer butcher freegan blog, flexitarian locavore vexillologist hashtag franzen direct trade affogato heirloom.
-          Tousled roof party deep v cloud bread, bespoke PBR&B copper mug brunch.
-        </p>
+    <div class="col-md-8 col-xs-12 left-column panel panel-default mainPanel" >
+
+
+      <div class="page-header">
+        <h1>Kevin Berry <small> Nice to meet you</small></h1>
       </div>
+
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+          <img  class="img img-responsive img-thumbnail pull-left" id="pPic" src={Port} alt="My handsome self."/>
+
+          <p> 
+            Hello! My name is Kevin Berry, and I am an aspiring  artist and programmer. I am from Neshanic Station, a small semi-rural area half-way between Flemington and Bridgewater.  I graduted from Champlain College in Burlington VT in 2014 with a BSA in Game Art and Animation.
+            
+            <br/>
+            <br/>
+            
+            I am currently working at the Flemington Kohls, as a Sales Associate.  I just recently started attending the Rutgers Coding Bootcamp to expand my skill set, and have enjoyed both learning and working with my fellow students and the instructors.
+          </p>
+        </div>
+
+      </div>    
     </div>
+
+    <Connect/>
+    
   </div>
 );
 
 export default About;
+
+
