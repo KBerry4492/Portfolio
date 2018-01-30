@@ -1,0 +1,353 @@
+[ 
+  {
+    "id": 1,
+    "month": "jan",
+    "type": ["plain"],
+    "cardName": "Jan 1",
+    "imgSrc": "/images/hanafuda/jan1.png"
+  },
+  {
+    "id": 2,
+    "month": "jan",
+    "type": ["plain"],
+    "cardName": "Jan 2",
+    "imgSrc": "/images/hanafuda/jan2.png"
+  },
+  {
+    "id": 3,
+    "month": "jan",
+    "type": ["ribbon", "poem"],
+    "cardName": "Jan 3",
+    "imgSrc": "/images/hanafuda/jan3.png"
+  },
+  {
+    "id": 4,
+    "month": "jan",
+    "type": ["bright"],
+    "cardName": "Jan 4",
+    "imgSrc": "/images/hanafuda/jan4.png"
+  },
+  {
+    "id": 5,
+    "month": "feb",
+    "type": ["plain"],
+    "cardName": "Feb 1",
+    "imgSrc": "/images/hanafuda/feb1.png"
+  },
+  {
+    "id": 6,
+    "month": "feb",
+    "type": ["plain"],
+    "cardName": "Feb 2",
+    "imgSrc": "/images/hanafuda/feb2.png"
+  },
+  {
+    "id": 7,
+    "month": "feb",
+    "type": ["ribbon", "poem"],
+    "cardName": "Feb 3",
+    "imgSrc": "/images/hanafuda/feb3.png"
+  },
+  {
+    "id": 8,
+    "month": "feb",
+    "type": ["animal"],
+    "cardName": "Feb 4",
+    "imgSrc": "/images/hanafuda/feb4.png"
+  },
+  {
+    "id": 9,
+    "month": "march",
+    "type": ["plain"],
+    "cardName": "March 1",
+    "imgSrc": "/images/hanafuda/mar1.png"
+  },
+  {
+    "id": 10,
+    "month": "march",
+    "type": ["plain"],
+    "cardName": "March 2",
+    "imgSrc": "/images/hanafuda/mar2.png"
+  },
+  {
+    "id": 11,
+    "month": "march",
+    "type": ["ribbon", "poem"],
+    "cardName": "March 3",
+    "imgSrc": "/images/hanafuda/mar3.png"
+  },
+  {
+    "id": 12,
+    "month": "march",
+    "type": ["bright"],
+    "cardName": "March 4",
+    "imgSrc": "/images/hanafuda/mar4.png"
+  },
+  {
+    "id": 13,
+    "month": "apr",
+    "type": ["plain"],
+    "cardName": "April 1",
+    "imgSrc": "/images/hanafuda/apr1.png"
+  },
+  {
+    "id": 14,
+    "month": "apr",
+    "type": ["plain"],
+    "cardName": "April 2",
+    "imgSrc": "/images/hanafuda/apr2.png"
+  },
+  {
+    "id": 15,
+    "month": "apr",
+    "type": ["ribbon", "red"],
+    "cardName": "April 3",
+    "imgSrc": "/images/hanafuda/apr3.png"
+  },
+  {
+    "id": 16,
+    "month": "apr",
+    "type": ["animal"],
+    "cardName": "April 4",
+    "imgSrc": "/images/hanafuda/apr4.png"
+  },
+  {
+    "id": 17,
+    "month": "may",
+    "type": ["plain"],
+    "cardName": "May 1",
+    "imgSrc": "/images/hanafuda/may1.png"
+  },
+  {
+    "id": 18,
+    "month": "may",
+    "type": ["plain"],
+    "cardName": "May 2",
+    "imgSrc": "/images/hanafuda/may2.png"
+  },
+  {
+    "id": 19,
+    "month": "may",
+    "type": ["ribbon", "red"],
+    "cardName": "May 3",
+    "imgSrc": "/images/hanafuda/may3.png"
+  },
+  {
+    "id": 20,
+    "month": "may",
+    "type": ["animal"],
+    "cardName": "May 4",
+    "imgSrc": "/images/hanafuda/may4.png"
+  },
+  {
+    "id": 21,
+    "month": "jun",
+    "type": ["plain"],
+    "cardName": "June 1",
+    "imgSrc": "/images/hanafuda/jun1.png"
+  },
+  {
+    "id": 22,
+    "month": "jun",
+    "type": ["plain"],
+    "cardName": "June 2",
+    "imgSrc": "/images/hanafuda/jun2.png"
+  },
+  {
+    "id": 23,
+    "month": "jun",
+    "type": ["ribbon", "blue"],
+    "cardName": "June 3",
+    "imgSrc": "/images/hanafuda/jun3.png"
+  },
+  {
+    "id": 24,
+    "month": "jun",
+    "type": ["animal", "cho"],
+    "cardName": "June 4",
+    "imgSrc": "/images/hanafuda/jun4.png"
+  },
+  {
+    "id": 25,
+    "month": "july",
+    "type": ["plain"],
+    "cardName": "July 1",
+    "imgSrc": "/images/hanafuda/jul1.png"
+  },
+  {
+    "id": 26,
+    "month": "july",
+    "type": ["plain"],
+    "cardName": "July 2",
+    "imgSrc": "/images/hanafuda/jul2.png"
+  },
+  {
+    "id": 27,
+    "month": "july",
+    "type": ["ribbon"],
+    "cardName": "July 3",
+    "imgSrc": "/images/hanafuda/jul3.png"
+  },
+  {
+    "id": 28,
+    "month": "july",
+    "type": ["animal", "ino"],
+    "cardName": "July 4",
+    "imgSrc": "/images/hanafuda/jul4.png"
+  },
+  {
+    "id": 29,
+    "month": "aug",
+    "type": ["plain"],
+    "cardName": "August 1",
+    "imgSrc": "/images/hanafuda/aug1.png"
+  },
+  {
+    "id": 30,
+    "month": "aug",
+    "type": ["plain"],
+    "cardName": "August 2",
+    "imgSrc": "/images/hanafuda/aug2.png"
+  },
+  {
+    "id": 31,
+    "month": "aug",
+    "type": ["animal"],
+    "cardName": "August 3",
+    "imgSrc": "/images/hanafuda/aug3.png"
+  },
+  {
+    "id": 32,
+    "month": "aug",
+    "type": ["bright"],
+    "cardName": "August 4",
+    "imgSrc": "/images/hanafuda/aug4.png"
+  },
+  {
+    "id": 33,
+    "month": "sept",
+    "type": ["plain"],
+    "cardName": "Sept 1",
+    "imgSrc": "/images/hanafuda/sept1.png"
+  },
+  {
+    "id": 34,
+    "month": "sept",
+    "type": ["plain"],
+    "cardName": "Sept 2",
+    "imgSrc": "/images/hanafuda/sept2.png"
+  },
+  {
+    "id": 35,
+    "month": "sept",
+    "type": ["ribbon", "blue"],
+    "cardName": "Sept 3",
+    "imgSrc": "/images/hanafuda/sept3.png"
+  },
+  {
+    "id": 36,
+    "month": "sept",
+    "type": ["plain", "animal"],
+    "cardName": "Sept 4",
+    "imgSrc": "/images/hanafuda/sept4.png"
+  },
+  {
+    "id": 37,
+    "month": "oct",
+    "type": ["plain"],
+    "cardName": "Oct 1",
+    "imgSrc": "/images/hanafuda/oct1.png"
+  },
+  {
+    "id": 38,
+    "month": "oct",
+    "type": ["plain"],
+    "cardName": "Oct 2",
+    "imgSrc": "/images/hanafuda/oct2.png"
+  },
+  {
+    "id": 39,
+    "month": "oct",
+    "type": ["ribbon", "blue"],
+    "cardName": "Oct 3",
+    "imgSrc": "/images/hanafuda/oct3.png"
+  },
+  {
+    "id": 40,
+    "month": "oct",
+    "type": ["animal", "shika"],
+    "cardName": "Oct 4",
+    "imgSrc": "/images/hanafuda/oct4.png"
+  },
+  {
+    "id": 41,
+    "month": "nov",
+    "type": ["plain"],
+    "cardName": "Nov 1",
+    "imgSrc": "/images/hanafuda/nov1.png"
+  },
+  {
+    "id": 42,
+    "month": "nov",
+    "type": ["ribbon", "red"],
+    "cardName": "Nov 2",
+    "imgSrc": "/images/hanafuda/nov2.png"
+  },
+  {
+    "id": 43,
+    "month": "nov",
+    "type": ["animal"],
+    "cardName": "Nov 3",
+    "imgSrc": "/images/hanafuda/nov3.png"
+  },
+  {
+    "id": 44,
+    "month": "nov",
+    "type": ["bright", "rain"],
+    "cardName": "Nov 4",
+    "imgSrc": "/images/hanafuda/nov4.png"
+  },
+  {
+    "id": 45,
+    "month": "dec",
+    "type": ["plain"],
+    "cardName": "Dec 1",
+    "imgSrc": "/images/hanafuda/dec1.png"
+  },
+  {
+    "id": 46,
+    "month": "dec",
+    "type": ["plain"],
+    "cardName": "Dec 2",
+    "imgSrc": "/images/hanafuda/dec2.png"
+  },
+  {
+    "id": 47,
+    "month": "dec",
+    "type": ["plain"],
+    "cardName": "Dec 3",
+    "imgSrc": "/images/hanafuda/dec3.png"
+  },
+  {
+    "id": 48,
+    "month": "dec",
+    "type": ["bright"],
+    "cardName": "Dec 4",
+    "imgSrc": "/images/hanafuda/dec4.png"
+  },
+  {
+    "id": 49,
+    "month": "null",
+    "type": ["joker"],
+    "cardName": "Back",
+    "imgSrc": "/images/hanafuda/cardback.png"
+  },
+  {
+    "id": 50,
+    "month": "null",
+    "type": ["joker"],
+    "cardName": "Joker",
+    "imgSrc": "/images/hanafuda/cardfront.png"
+  }
+
+]

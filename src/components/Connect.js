@@ -5,13 +5,13 @@ import link from "../images/LinkedIn-Logo.png";
 import face from "../images/facebook_logo_2.png";
 
 const Connect = props => (
-  <div className="panel panel-info">
+  <div className="card card-default">
 
-    <div className="panel-heading">
-      <h1 className="panel-title">Connect with me</h1>
+    <div className="card-header">
+      <h1 className="card-title">Connect with me</h1>
     </div>
 
-    <div className="panel-body">
+    <div className="card-body">
 
       <a href="https://github.com/KBerry4492" target="_blank" rel="noopener noreferrer">
        <img className="Connect col-md-3 col-xs-3 img img-responsive img-rounded" src={gh} alt="github">
