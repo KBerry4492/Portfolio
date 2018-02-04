@@ -1,6 +1,6 @@
 // import React
 import React, { Component } from 'react';
-import { Header, ContentLink, Embed } from "../../components/Nav";
+import { Header, Embed } from "../../components/Nav";
 import { Container, Row, Col, Playspace } from '../../components/Grid';
 import '../../css/style.css';
 

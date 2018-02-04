@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import { Header } from "../../components/Nav";
 import { Container, Row, Col } from '../../components/Grid';
 
+
 export class Contact extends Component  {
   state = {
     headText:"I can be also reached at kmb23@comcast.net.",
@@ -19,10 +20,8 @@ export class Contact extends Component  {
   handleFormSubmit = event => {
     event.preventDefault();
 
-
-
     this.setState({
-      headText:"Thank you for commemting.",
+      headText:"Thank you for commenting.",
       nameInput:"",
       emailInput:"",
       commentField:""

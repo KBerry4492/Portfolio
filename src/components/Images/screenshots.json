@@ -1,0 +1,114 @@
+[ 
+  {
+    "id": 1,
+    "type":"geomon",
+    "name":"Home",
+    "imgSrc": "/images/geomon/home.png",
+    "caption":"The home page is the first screen the player sees, and contains the instructions for the game."
+  },
+  {
+    "id": 2,
+    "name":"Overview",
+    "type":"geomon",
+    "imgSrc": "/images/geomon/overview.png",
+    "caption":"Once the blue button is clicked, the Google Map API is called, and a marker (the Hat) is dropped on the player's current location.  The map will re-center on the player every few seconds."
+  },
+  {
+    "id": 3,
+    "name":"Battle",
+    "type":"geomon",
+    "imgSrc": "/images/geomon/battle.png",
+    "caption":"The pikachu hiding in grass mark the location of a pokemon, and once clicked, a random pokemon is selected from the list available from that location."
+  },
+  {
+    "id": 4,
+    "name":"Throw",
+    "type":"geomon",
+    "imgSrc": "/images/geomon/battle2.png",
+    "caption":"The player then has the option to either [Catch] the pokemon by throwing a pokeball, or [Run] from the battle."
+  },
+  {
+    "id": 5,
+    "name":"Caught",
+    "type":"geomon",
+    "imgSrc": "/images/geomon/battle3.png",
+    "caption":"It may take a few throws, but eventually the pokemon will either be caught, or it will run away."
+  },
+  {
+    "id": 6,
+    "name":"Pokedex",
+    "type":"geomon",
+    "imgSrc": "/images/geomon/dex1.png",
+    "caption":"As you see and catch pokemon, you will fill the Pokedex."
+  },
+  {
+    "id": 7,
+    "name":"Pokemon",
+    "type":"geomon",
+    "imgSrc": "/images/geomon/dex2.png",
+    "caption":"Catching a pokemon will let you see more of its stats on its 'Dex page, than if you only have seen it."
+  },
+  {
+    "id": 8,
+    "name":"Start",
+    "type":"hangman",
+    "imgSrc": "/images/Hangman/start.png",
+    "caption":""
+  },
+  {
+    "id": 9,
+    "name":"Correct Guess",
+    "type":"hangman",
+    "imgSrc": "/images/Hangman/guess.png",
+    "caption":""
+  },
+  {
+    "id": 10,
+    "name":"Invalid Guess",
+    "type":"hangman",
+    "imgSrc": "/images/Hangman/invalid.png",
+    "caption":""
+  },
+  {
+    "id": 11,
+    "name":"Lose",
+    "type":"hangman",
+    "imgSrc": "/images/Hangman/lose.png",
+    "caption":""
+  },
+  {
+    "id": 12,
+    "name":"Win",
+    "type":"hangman",
+    "imgSrc": "/images/Hangman/win.png",
+    "caption":""
+  },
+  {
+    "id": 13,
+    "name":"Homepage",
+    "type":"hanafuda",
+    "imgSrc": "/images/hanafuda/screens/screen1.png",
+    "caption":" The instructions for each game can be found on the home page. "
+  },
+  {
+    "id": 14,
+    "name":"Game page",
+    "type":"hanafuda",
+    "imgSrc": "/images/hanafuda/screens/screen2.png",
+    "caption":" There are three card games available, War, Memory, and Koikoi. "
+  },
+  {
+    "id": 15,
+    "name":"Cards",
+    "type":"hanafuda",
+    "imgSrc": "/images/hanafuda/screens/screen3.png",
+    "caption":" Not many people are familiar with hanafuda cards, so every card, and their name can be found here."
+  },
+  {
+    "id": 16,
+    "name":"Point combos",
+    "type":"hanafuda",
+    "imgSrc": "/images/hanafuda/screens/screen4.png",
+    "caption":" Koikoi has a relatively complicated set of rules, so all of the point winning card combos are detailed on this page. "
+  }
+]

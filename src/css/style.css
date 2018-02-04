@@ -152,7 +152,6 @@ body{
 }
 
 .im-lab{
-
   background-color: #4aaaa5;
   border-radius: 3px;
   position: relative;
@@ -171,4 +170,33 @@ body{
   font-size: 12px;
   color: #000;
   font-weight: bold;
+}
+
+.im-link-l {
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 310px;
+  margin: 20px 5px;
+  border: 3px solid rgb(241, 241, 241);
+  border-radius: 3px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  z-index: 5;
+}
+.im-link-l:hover {
+  transform: scale(1.1);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  transition: 0.1s;
+}
+.im-lab-l{
+  background-color: #4aaaa5;
+  border-radius: 3px;
+  position: relative;
+  bottom: -250px;
+  left: -1px;
+  text-align: center;
+  width: 100%;
+  padding: 2px;
+  margin: 1px;
+  opacity: .85;
 }
