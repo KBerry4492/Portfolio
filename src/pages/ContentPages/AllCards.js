@@ -17,27 +17,24 @@ export class AllCards extends Component  {
         <Header title="Hanafuda Cards" text= "Hand-drawn in Photoshop CS6 on an Intuos 5" />
           
           <Container>
-
-            <div className ="link-space">
-              
+              <Link className="cLink" to="/2D"> Back </Link>
               <Row>
-                <Col size = "2"> <Link className="cLink" to="/2D"> Back </Link> </Col>
-                <Col size = "8">
-                {this.state.data.map(item => (
-                    
-                      <ImageLink
-                        key={item.id}
-                        name={item.cardName}
-                        image={item.imgSrc}
-                        link={item.imgSrc}
-                      />
-                    
-                  ))}              
-                </Col>
+                <Col size = "1">  </Col>
+                <Col size = "10">
+                  <Row>
+                    {this.state.data.map(item => (
+                      <Col size = "3">
+                        <ImageLink
+                          key={item.id}
+                          name={item.cardName}
+                          image={item.imgSrc}
+                          link={item.imgSrc}
+                        />
+                      </Col>
+                    ))}
+                  </Row>
+                </Col>             
               </Row>
-
-            </div>
-
           </Container>
 
       </div>

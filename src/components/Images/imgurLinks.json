@@ -1,0 +1,212 @@
+[ 
+  {
+    "id": 1,
+    "type":"paintings",
+    "name":"The Bleeding Mask",
+    "imgSrc": "https://i.imgur.com/K0NoSSY.png",
+    "caption":" "
+  },
+  {
+    "id": 2,
+    "type":"paintings",
+    "name":"Quetzapple",
+    "imgSrc": "https://i.imgur.com/66Rd2Wr.png",
+    "caption":""
+  },
+  {
+    "id": 3,
+    "type":"paintings",
+    "name":"Chaotic Space",
+    "imgSrc": "https://i.imgur.com/dktJ4bi.png",
+    "caption":""
+  },
+  {
+    "id": 4,
+    "type":"paintings",
+    "name":"Tulip in Abstract",
+    "imgSrc": "https://i.imgur.com/UJmANgi.png",
+    "caption":""
+  },
+  {
+    "id": 5,
+    "type":"paintings",
+    "name":"Alien Insect",
+    "imgSrc": "https://i.imgur.com/2OQ2JTO.png",
+    "caption":""
+  },
+  {
+    "id": 6,
+    "type":"paintings",
+    "name":"Stage Magic",
+    "imgSrc": "https://i.imgur.com/MqoSxiL.png",
+    "caption":""
+  },
+  {
+    "id": 7,
+    "type":"paintings",
+    "name":"Distorted Perspectives",
+    "imgSrc": "https://i.imgur.com/HSi8Wbe.png",
+    "caption":""
+  },
+  {
+    "id": 8,
+    "type":"paintings",
+    "name":"An odd shade",
+    "imgSrc": "https://i.imgur.com/ynzbLoj.png",
+    "caption":""
+  },
+  {
+    "id": 9,
+    "type":"paintings",
+    "name":"Distraction",
+    "imgSrc": "https://i.imgur.com/61FPYuX.png",
+    "caption":""
+  },
+  {
+    "id": 10,
+    "type":"ASH",
+    "name":"Rose Knight",
+    "imgSrc": "https://i.imgur.com/hsTgbTf.png",
+    "caption":""
+  },
+  {
+    "id": 11,
+    "type":"ASH",
+    "name":"Solstice",
+    "imgSrc": "https://i.imgur.com/hGswwGj.png",
+    "caption":""
+  },
+  {
+    "id": 12,
+    "type":"ASH",
+    "name":"Dark Reflection",
+    "imgSrc": "https://i.imgur.com/MXLGLpG.png",
+    "caption":""
+  },
+  {
+    "id": 13,
+    "type":"ASH",
+    "name":"Gallant",
+    "imgSrc": "https://i.imgur.com/cHcF1dp.png",
+    "caption":""
+  },
+  {
+    "id": 14,
+    "type":"ASH",
+    "name":"Parian",
+    "imgSrc": "https://i.imgur.com/3OftR7z.png",
+    "caption":""
+  },
+  {
+    "id": 15,
+    "type":"ASH",
+    "name":"Thunderstruck",
+    "imgSrc": "https://i.imgur.com/PPXmP4w.png",
+    "caption":""
+  },
+  {
+    "id": 16,
+    "type":"ASH",
+    "name":"Ifrit",
+    "imgSrc": "https://i.imgur.com/XFO081A.png",
+    "caption":""
+  },
+  {
+    "id": 17,
+    "type":"anomaly",
+    "name":"Hover ship [front]",
+    "imgSrc": "https://i.imgur.com/9r1VQ5D.png",
+    "caption":""
+  },
+  {
+    "id": 18,
+    "type":"anomaly",
+    "name":"Hover ship [rear]",
+    "imgSrc": "https://i.imgur.com/ztleL86.png",
+    "caption":""
+  },
+  {
+    "id": 19,
+    "type":"anomaly",
+    "name":"Star craft [top]",
+    "imgSrc": "https://i.imgur.com/DW2rgVC.png",
+    "caption":""
+  },
+  {
+    "id": 20,
+    "type":"anomaly",
+    "name":"Star craft [bottom]",
+    "imgSrc": "https://i.imgur.com/t1x8yMl.png",
+    "caption":""
+  },
+  {
+    "id": 21,
+    "type":"anomaly",
+    "name":"Arm",
+    "imgSrc": "https://i.imgur.com/uIwO7kz.png",
+    "caption":""
+  },
+  {
+    "id": 22,
+    "type":"anomaly",
+    "name":"HUD",
+    "imgSrc": "https://i.imgur.com/2wouniv.png",
+    "caption":""
+  },
+  {
+    "id": 23,
+    "type":"anomaly",
+    "name":"Stasis Chamber",
+    "imgSrc": "https://i.imgur.com/ytrUB57.png",
+    "caption":""
+  },
+  {
+    "id": 24,
+    "type":"anomaly",
+    "name":"Office Furniture",
+    "imgSrc": "https://i.imgur.com/0WZrwVE.png",
+    "caption":""
+  },
+  {
+    "id": 25,
+    "type":"anomaly",
+    "name":"Transit Tube",
+    "imgSrc": "https://i.imgur.com/MXdNock.png",
+    "caption":""
+  },
+  {
+    "id": 26,
+    "type":"anomaly",
+    "name":"Powerpod",
+    "imgSrc": "https://i.imgur.com/Jj1Oa8C.png",
+    "caption":""
+  },
+  {
+    "id": 27,
+    "type":"anomaly",
+    "name":"Chemicals",
+    "imgSrc": "https://i.imgur.com/crqcidz.png",
+    "caption":""
+  },
+  {
+    "id": 28,
+    "type":"anomaly",
+    "name":"Dynamo",
+    "imgSrc": "https://i.imgur.com/q9r1gKs.png",
+    "caption":""
+  },
+  {
+    "id": 29,
+    "type":"anomaly",
+    "name":"Coral",
+    "imgSrc": "https://i.imgur.com/0HUTLRF.png",
+    "caption":""
+  },
+  {
+    "id": 30,
+    "type":"anomaly",
+    "name":"Rocks",
+    "imgSrc": "https://i.imgur.com/9smuFm7.png",
+    "caption":""
+  }
+]

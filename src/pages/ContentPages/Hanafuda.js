@@ -53,34 +53,36 @@ export class Hanafuda extends Component  {
             <Row>
 
             <Col size="1"></Col>
+            
             <Col size="11">
 
-            <Row>
-              {this.state.data.filter(item => {
-                    return item.type.includes("hanafuda")
-                })
-                .map(items => (
-                    <Col size="6">
-                      <Row>
-                        <ImageLinkL
-                          key={items.id}
-                          id={items.id}
-                          name={items.name}
-                          image={items.imgSrc}
-                          link={items.imgSrc}
-                        />
-                      </Row>
-                      <Row>
-                        <Col size="9">
-                          <Playspace> 
-                            {items.caption} 
-                          </Playspace>
-                        </Col>
-                      </Row>
-                    </Col>                  
-                  
-                ))}
-              </Row></Col>
+              <Row>
+                {this.state.data.filter(item => {
+                      return item.type.includes("hanafuda")
+                  })
+                  .map(items => (
+                      <Col size="6">
+                        <Row>
+                          <ImageLinkL
+                            key={items.id}
+                            id={items.id}
+                            name={items.name}
+                            image={items.imgSrc}
+                            link={items.imgSrc}
+                          />
+                        </Row>
+                        <Row>
+                          <Col size="9">
+                            <Playspace> 
+                              {items.caption} 
+                            </Playspace>
+                          </Col>
+                        </Row>
+                      </Col>                  
+                    
+                  ))}
+                </Row>
+              </Col>
 
               </Row>
             </div>

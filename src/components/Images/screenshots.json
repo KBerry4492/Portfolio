@@ -50,62 +50,27 @@
   },
   {
     "id": 8,
-    "name":"Start",
-    "type":"hangman",
-    "imgSrc": "/images/Hangman/start.png",
-    "caption":""
-  },
-  {
-    "id": 9,
-    "name":"Correct Guess",
-    "type":"hangman",
-    "imgSrc": "/images/Hangman/guess.png",
-    "caption":""
-  },
-  {
-    "id": 10,
-    "name":"Invalid Guess",
-    "type":"hangman",
-    "imgSrc": "/images/Hangman/invalid.png",
-    "caption":""
-  },
-  {
-    "id": 11,
-    "name":"Lose",
-    "type":"hangman",
-    "imgSrc": "/images/Hangman/lose.png",
-    "caption":""
-  },
-  {
-    "id": 12,
-    "name":"Win",
-    "type":"hangman",
-    "imgSrc": "/images/Hangman/win.png",
-    "caption":""
-  },
-  {
-    "id": 13,
     "name":"Homepage",
     "type":"hanafuda",
     "imgSrc": "/images/hanafuda/screens/screen1.png",
     "caption":" The instructions for each game can be found on the home page. "
   },
   {
-    "id": 14,
+    "id": 9,
     "name":"Game page",
     "type":"hanafuda",
     "imgSrc": "/images/hanafuda/screens/screen2.png",
     "caption":" There are three card games available, War, Memory, and Koikoi. "
   },
   {
-    "id": 15,
+    "id": 10,
     "name":"Cards",
     "type":"hanafuda",
     "imgSrc": "/images/hanafuda/screens/screen3.png",
     "caption":" Not many people are familiar with hanafuda cards, so every card, and their name can be found here."
   },
   {
-    "id": 16,
+    "id": 11,
     "name":"Point combos",
     "type":"hanafuda",
     "imgSrc": "/images/hanafuda/screens/screen4.png",
