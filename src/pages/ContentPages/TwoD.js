@@ -35,7 +35,7 @@ export class TwoD extends Component  {
                 
                 <Col size = "10">
 
-                <Playspace> <h2> A Skittering Heart </h2> </Playspace>
+                <Playspace>  <a className="iLink" rel="noopener noreferrer" target="_blank" href="https://forums.spacebattles.com/threads/ash-worm-kingdom-hearts-thread-2-is-tuesday-over-yet.420875/"> <h2>A Skittering Heart</h2> </a>  </Playspace>
 
                   <Row>
                     {this.state.data.filter(item => {
