@@ -208,5 +208,82 @@
     "name":"Rocks",
     "imgSrc": "https://i.imgur.com/9smuFm7.png",
     "caption":""
+  },
+  {
+    "id": 31,
+    "type":"3DS",
+    "name":"Front High",
+    "imgSrc": "https://i.imgur.com/zf50ngF.png",
+    "caption":""
+  },
+  {
+    "id": 32,
+    "type":"3DS",
+    "name":"Front Low",
+    "imgSrc": "https://i.imgur.com/yoOvp18.png",
+    "caption":""
+  },
+  {
+    "id": 33,
+    "type":"3DS",
+    "name":"Left Side",
+    "imgSrc": "https://i.imgur.com/kNJdP9Q.png",
+    "caption":""
+  },
+  {
+    "id": 34,
+    "type":"3DS",
+    "name":"Left Side Close",
+    "imgSrc": "https://i.imgur.com/V77uj3S.png",
+    "caption":""
+  },
+  {
+    "id": 35,
+    "type":"3DS",
+    "name":"Left Rear",
+    "imgSrc": "https://i.imgur.com/e0imMN9.png",
+    "caption":""
+  },
+  {
+    "id": 36,
+    "type":"3DS",
+    "name":"Front Gate",
+    "imgSrc": "https://i.imgur.com/x92F26F.png",
+    "caption":""
+  },
+  {
+    "id": 37,
+    "type":"3DS",
+    "name":"Fountain",
+    "imgSrc": "https://i.imgur.com/IPUjNBP.png",
+    "caption":""
+  },
+  {
+    "id": 38,
+    "type":"3DS",
+    "name":"Courtyard",
+    "imgSrc": "https://i.imgur.com/BNYhHux.png",
+    "caption":""
+  },
+  {
+    "id": 39,
+    "type":"3DS",
+    "name":"Tree",
+    "imgSrc": "https://i.imgur.com/qZwDegB.png",
+    "caption":""
+  },
+  {
+    "id": 40,
+    "type":"3DS",
+    "name":"Rear Gate",
+    "imgSrc": "https://i.imgur.com/wVk5JCi.png",
+    "caption":""
+  },
+  {
+    "id": 41,
+    "type":"3DS",
+    "name":"Awe",
+    "imgSrc": "https://i.imgur.com/Q0UVpTA.png",
+    "caption":""
   }
 ]

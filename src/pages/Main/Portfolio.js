@@ -28,11 +28,11 @@ export class Portfolio extends Component  {
               </Col>
 
               <Col size="4"> 
-                <ContentLink name="3D Projects" image="/images/geomon.png" link="3D" /> 
+                <ContentLink name="3D Projects" image="/images/basillica.png" link="3D" /> 
               </Col>
 
               <Col size="4">
-                <ContentLink name="2D Artwork" image="/images/Hanafuda.jpg" link="2D" />
+                <ContentLink name="2D Artwork" image="/images/artwork.png" link="2D" />
               </Col>
 
             </Row>
